@@ -30,7 +30,7 @@ Output file: `data.csv` with fields `text, label, source, language, movie`.
 
 ## 2. Directory layout expected by the notebook
 After downloading, please place the files as follows:
-
+```
 project/
 ├── 1.ipynb                      # the pipeline notebook (this repository)
 ├── nsmc/
